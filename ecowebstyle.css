@@ -1,0 +1,74 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: #ffc;
+    margin: 20px;
+    padding: 0;
+}
+
+/* This is a comment, by the way */
+
+p {
+    line-height: 21px;
+}
+
+h1 {
+    color: white;
+    background-color: green;
+    font-size: 3em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 0.05em;
+   
+}
+
+h2 {
+    color: white;
+    background-color: #090;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+
+}
+
+h3 {
+    color: white;
+    font-size: 1.5em;
+}
+
+img {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ccc;
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+
+li {
+    color: black;
+    font-style: normal;
+}
+
+table {
+    background-color: #ccc;
+padding: 4px;
+padding-left: 14px;
+Padding-top: 14px;
+Padding-bottom: 14px;
+Padding-right: 14px;
+
+}
+
